@@ -2,6 +2,7 @@
 
 * 🌱 I’m currently learning Modern Android Development.
 * 👯 I’m looking forward to working as an Android Developer(Remote).
+* 🔭 Checkout some of my projects here ==> [Portfolio](https://ezechukwuka9.wixsite.com/portfolio)
 * 📫 How to reach me: [Twitter](https://twitter.com/javalon007),  [LinkedIn](www.linkedin.com/in/iameze)
 
 <!--
