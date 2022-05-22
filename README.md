@@ -1,21 +1,9 @@
-### Hi there, I'm Chukwuka Eze 👋
+[![Chuka's Banner](./assets/banner_header.png)](https://ezechuka.me/) <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/iameze)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/javalon007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ezechuka.me/)
 
-* 🌱 I’m currently learning Modern Android Development.
-* 👯 I’m looking forward to working as an Android Developer(Remote).
-* 🔭 Checkout some of my projects here => [Portfolio](https://ezechuka.github.io/)
-* 📫 How to reach me: [Twitter](https://twitter.com/javalon007),  [LinkedIn](www.linkedin.com/in/iameze)
+### Hey there 👋
+I'm Chukwuka, an Android developer and open source enthusiast specializing in Android development. I strive to translate user-focused interface designs into pixel-perfect, mobile applications.
 
-<!--
-**ezechuka/ezechuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in knowing more about me? Check out my [Portfolio](https://www.ezechuka.me/)
