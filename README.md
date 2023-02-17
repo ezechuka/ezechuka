@@ -4,6 +4,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ezechuka.me/)
 
 ### Hey there 👋
-I'm Chukwuka, an Android developer and open source enthusiast specializing in Android development. I strive to translate user-focused interface designs into pixel-perfect mobile applications.
+I'm Chukwuka, a Frontend developer and open source enthusiast specializing in frontend development. I strive to translate user-focused interface designs into pixel-perfect web applications.
 
 Interested in knowing more about me? Check out my [Portfolio](https://www.ezechuka.me/)
